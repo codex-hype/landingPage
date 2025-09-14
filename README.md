@@ -3,7 +3,7 @@
 Sebuah template landing page sederhana yang dapat digunakan dan dimodifikasi secara bebas.
 
 ## 🚀 Fitur
-- Struktur HTML, CSS, dan JS yang mudah dipahami
+- Struktur HTML, CSS yang mudah dipahami
 - Responsive design
 - Mudah dikustomisasi untuk berbagai kebutuhan
 
